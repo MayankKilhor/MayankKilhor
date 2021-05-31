@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/TheRoryWillAim/TheRoryWillAim/blob/main/gifs/The%20roryWillAin.png">
+<img align="center" src="https://github.com/TheRoryWillAim/TheRoryWillAim/blob/main/gifs/The%20RoryWillAim.gif">
 <h1 align="center">Hi <developers/> <img src="https://github.com/TheRoryWillAim/TheRoryWillAim/blob/main/gifs/Hi.gif" width="30px">! , I'm Mayank Kilhor</h1>
 <h3 align="center">A passionate Newbie developer from Gallifrey</h3>
 

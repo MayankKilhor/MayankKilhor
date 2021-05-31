@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <developers/> <img src="https://github.com/TheRoryWillAim/TheRoryWillAim/blob/main/gifs/Hi.gif">! , I'm Mayank Kilhor</h1>
+<h1 align="center">Hi <developers/> <img src="https://github.com/TheRoryWillAim/TheRoryWillAim/blob/main/gifs/Hi.gif" width="30px">! , I'm Mayank Kilhor</h1>
 <h3 align="center">A passionate Newbie developer from Gallifrey</h3>
 
 <div align="center" width="50">
@@ -8,19 +8,17 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=therorywillaim&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="therorywillaim">
 
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therorywillaim&show_icons=true&locale=en" alt="therorywillaim" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therorywillaim" alt="therorywillaim" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/RoryAim" target="blank"><img src="https://img.shields.io/twitter/follow/RoryAim?logo=twitter&style=for-the-badge" alt="RoryAim" /></a> </p>
 
+</div>
 - 📫 How to reach me **mayankkilhor@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RoryAim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" colour="white" alt="RoryWillAim" height="30" width="40" /></a>
+<a href="https://twitter.com/RoryAim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" color="white" alt="RoryWillAim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

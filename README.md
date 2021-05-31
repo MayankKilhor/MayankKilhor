@@ -25,7 +25,7 @@
 [![Twitter: ankityddv](https://img.shields.io/twitter/follow/RoryAim?style=social)](https://twitter.com/RoryAim)
 [![Linkedin: ankityddv](https://img.shields.io/badge/-Mayank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-kilhor-4273a6142/)](https://www.linkedin.com/in/mayank-kilhor-4273a6142/)
 [![GitHub ankityddv](https://img.shields.io/github/followers/TheRoryWillAim?label=follow&style=social)](https://github.com/TheRoryWillAim)
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mayankkilhor@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mayankkilhor@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/mickykilhor7)
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033206252956) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/thedrunkcoder/) -->

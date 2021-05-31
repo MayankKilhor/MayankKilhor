@@ -12,7 +12,10 @@
 
 
 </div>
+</br>
+<div>
 - 📫 How to reach me **mayankkilhor@gmail.com**
+</div>
 - ⚡ Fun fact **I think I am Funny**
 </br>
 

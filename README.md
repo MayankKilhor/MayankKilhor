@@ -13,7 +13,7 @@
 
 </div>
 </div>
-<div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRoryWillAim&" alt="Rory William" /></div>
+
 </br>
 <div align="center" width="50">
 <div>
@@ -21,7 +21,7 @@
 </div>
 - ⚡ Fun fact **I think I am Funny**
 </br>
-
+<div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRoryWillAim&" alt="Rory William" /></div>
 
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100033206252956) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/thedrunkcoder/) -->

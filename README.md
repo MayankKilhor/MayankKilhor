@@ -12,8 +12,10 @@
 
 
 </div>
+</div>
 <div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRoryWillAim&" alt="Rory William" /></div>
 </br>
+<div align="center" width="50">
 <div>
 - 📫 How to reach me **mayankkilhor@gmail.com**
 </div>

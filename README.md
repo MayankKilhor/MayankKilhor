@@ -2,7 +2,7 @@
 <img align="center" src="https://github.com/TheRoryWillAim/TheRoryWillAim/blob/main/gifs/The%20RoryWillAim.gif">
 <h1 align="center">Hi <developers/> <img src="https://github.com/TheRoryWillAim/TheRoryWillAim/blob/main/gifs/Hi.gif" width="30px">! , I'm Mayank Kilhor</h1>
 <h3 align="center">A passionate Newbie developer from Gallifrey</h3>
-<div align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRoryWillAim&" alt="Rory William" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRoryWillAim&" alt="Rory William" /></div>
 <div align="center" width="50">
   
 

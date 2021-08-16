@@ -3,6 +3,7 @@
 <h1 align="center">Hi <developers/> <img src="https://github.com/TheRoryWillAim/TheRoryWillAim/blob/main/gifs/Hi.gif" width="30px">! , I'm Mayank Kilhor</h1>
 <h3 align="center">A passionate Newbie developer from Gallifrey</h3>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheRoryWillAim&" alt="Rory William" /></div>
+<img src="https://activity-graph.herokuapp.com/graph?username=TheRoryWillAim&theme=xcode" alt="Contribution Graph" align="center" />
 <div align="center" width="50">
   
 

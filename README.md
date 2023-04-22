@@ -1,9 +1,9 @@
 
 <img align="center" src="https://github.com/MayankKilhor/MayankKilhor/blob/main/gifs/mayank.jpg">
-<h1 align="center">Hi <developers/> <img src="https://github.com/MayankKilhor/MayankKilhor/blob/main/gifs/Hi.gif" width="30px">! , I'm Mayank Kilhor</h1>
+<!-- <h1 align="center">Hi <developers/> <img src="https://github.com/MayankKilhor/MayankKilhor/blob/main/gifs/Hi.gif" width="30px">! , I'm Mayank Kilhor</h1> -->
 <h3 align="center">A passionate Newbie developer from Gallifrey</h3>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankKilhor&" alt="Mayank Kilhor" /></div>
-<img src="https://activity-graph.herokuapp.com/graph?username=MayankKilhor&theme=xcode" alt="Contribution Graph" align="center" />
+<!-- /<img src="https://activity-graph.herokuapp.com/graph?username=MayankKilhor&theme=xcode" alt="Contribution Graph" align="center" /> -->
 <div align="center" width="50">
   
 

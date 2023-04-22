@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/Mayankkilhor/MayankKilhor/blob/main/gif/mayank.jpg">
+<img align="center" src="https://github.com/MayankKilhor/MayankKilhor/blob/main/gif/mayank.jpg">
 <h1 align="center">Hi <developers/> <img src="https://github.com/MayankKilhor/MayankKilhor/blob/main/gifs/Hi.gif" width="30px">! , I'm Mayank Kilhor</h1>
 <h3 align="center">A passionate Newbie developer from Gallifrey</h3>
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankKilhor&" alt="Mayank Kilhor" /></div>
@@ -8,7 +8,7 @@
   
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankKilhor&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="therorywillaim">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MayankKilhor&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="mayank">
 
 </br>
 
@@ -49,6 +49,6 @@
 
 [![Twitter: ankityddv](https://img.shields.io/twitter/follow/RoryAim?style=social)](https://twitter.com/RoryAim)
 [![Linkedin: ankityddv](https://img.shields.io/badge/-Mayank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-kilhor-4273a6142/)](https://www.linkedin.com/in/mayank-kilhor-4273a6142/)
-[![GitHub ankityddv](https://img.shields.io/github/followers/TheRoryWillAim?label=follow&style=social)](https://github.com/TheRoryWillAim)
+[![GitHub ankityddv](https://img.shields.io/github/followers/MayankKilhor?label=follow&style=social)](https://github.com/MayankKilhor)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:mayankkilhor@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Snapchat](https://img.shields.io/badge/Snapchat-add-yellow.svg?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/mickykilhor7)
